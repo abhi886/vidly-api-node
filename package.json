@@ -1,0 +1,26 @@
+{
+  "name": "vidly-api-node",
+  "version": "1.0.0",
+  "description": "This project is the backend of Vidly, an imaginary video rental app. I've used Vidly as an example in several of my online programming courses, such as:",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "bcrypt": "^5.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mosh-hamedani/vidly-api-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mosh-hamedani/vidly-api-node/issues"
+  },
+  "homepage": "https://github.com/mosh-hamedani/vidly-api-node#readme"
+}
