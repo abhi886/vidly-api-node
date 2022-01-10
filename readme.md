@@ -1,7 +1,6 @@
 ## Introduction
 
-This project is the backend of Vidly, an imaginary video rental app. I've used Vidly as an example in several of my online programming courses, such as:
-
+This project is the backend of Library Management System that is built on top of Mosh's imaginary Video Rental Application tutorial:
 - https://codewithmosh.com/p/mastering-react
 - https://codewithmosh.com/p/the-complete-node-js-course
 - https://codewithmosh.com/p/asp-net-mvc
